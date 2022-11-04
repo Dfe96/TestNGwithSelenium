@@ -1,0 +1,21 @@
+[
+  {
+    "email" : "diego.fraile@gmail.com",
+    "password": "Fakekey1234",
+    "product" : "ZARA COAT 3"
+  },
+
+  {
+    "email" : "diego.fraile@gmail.com",
+    "password": "Fakekey1234",
+    "product" : "ADIDAS ORIGINAL"
+
+  },
+  {
+    "email" : "diego.fraile@gmail.com",
+    "password": "Fakekey1234",
+    "product" : "IPHONE 13 PRO"
+
+  }
+
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="methods"  data-provider-thread-count="2">
+    <listeners>
+        <listener class-name="testComponents.Listeners"/>
+    </listeners>
+    <test verbose="2"  preserve-order="true" name="login" >
+        <classes>
+            <class name="test.FirstTest">
+                <methods>
+                    <include name="login"/>
+                    <include name="submitOrder"/>
+                    <include name="submitOrderWithJson"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+<!--    <test verbose="2"  preserve-order="true" name="Endtoend">-->
+<!--        <classes>-->
+<!--            <class name="test.FirstTest">-->
+<!--                <methods>-->
+<!--                    <include name="submitOrder"/>-->
+<!--                    <include name="submitOrderWithJson"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
