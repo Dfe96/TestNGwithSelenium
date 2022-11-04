@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="954dac89-626e-4a24-9c80-158432432cbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/submitOrderWithJson.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/data/OneShot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/data/firstDataImput.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/firstScript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjectFactory/BasePageObjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/OrderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/ExtentReporterNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testComponents/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testComponents/IRetryAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testComponents/Listeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngparallel.xml" afterDir="false" />
-    </list>
+    <list default="true" id="954dac89-626e-4a24-9c80-158432432cbf" name="Changes" comment="de" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667231275643</updated>
     </task>
+    <task id="LOCAL-00001" summary="de">
+      <created>1667557414591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667557414591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="de" />
+    <option name="LAST_COMMIT_MESSAGE" value="de" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestNGwithSelenium$C__Users_diego_IdeaProjects_TestNGwithSelenium_src_test_testng_xml.ic" NAME="$PROJECT_DIR$/src/test/testng.xml Coverage Results" MODIFIED="1667396471227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
